@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @joobloobs (Jules Battaglia)
-- 👀 I’m interested in sciences, informatics, computer architecture, computer 3D graphics, anything that I want to understand depending on the mood...
-- 🌱 I’m currently learning a lot of things as computer science student at INSA Lyon in France
+- 👀 I’m interested in sciences, informatics, computer architecture, AI, low level programming, computer 3D graphics, anything that I want to understand depending on the mood...
+- 🌱 I've learnt a lot of things as a computer science student at INSA Lyon in France and am now graduated
 - 📫 You can reach me by email : 📧jules.battaglia@laposte.net or by LinkedIn : 🔗[jules-battaglia](www.linkedin.com/in/jules-battaglia)
